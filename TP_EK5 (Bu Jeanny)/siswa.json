@@ -1,0 +1,29 @@
+[
+  {
+    "nama": "Rifqi",
+    "kelas": "PeWeb Node.js",
+    "nilai": [
+      78,
+      92,
+      87
+    ]
+  },
+  {
+    "nama": "Wonwoo",
+    "kelas": "PeWeb Node.js",
+    "nilai": [
+      93,
+      97,
+      83
+    ]
+  },
+  {
+    "nama": "Vernon",
+    "kelas": "PeWeb Node.js",
+    "nilai": [
+      98,
+      77,
+      68
+    ]
+  }
+]
